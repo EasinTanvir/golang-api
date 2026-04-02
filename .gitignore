@@ -1,0 +1,48 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of go build / go run
+*.out
+
+# Go workspace file
+go.work
+
+# Dependency directories (if you use vendoring)
+vendor/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Coverage files
+coverage.out
+
+# Temporary files
+tmp/
+temp/
+
+# Go build cache (optional)
+.cache/
+
+# Binary folder (common practice)
+bin/
+
+# MacOS specific
+*.swp
